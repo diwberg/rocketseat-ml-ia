@@ -8,3 +8,4 @@ Desafios da formação Machine Learning em Inteligência Artificial.
 - [Regressão Linear Simples](./regressao-linear-simples)
 - [Regressão Linear Múltipla](./regressao-linear-multipla)
 - [Regressão Polinomial](./regressao-polinomial)
+- [Árvore de Decisão](./arvore-de-decisao)
