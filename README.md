@@ -10,3 +10,4 @@ Desafios da formação Machine Learning em Inteligência Artificial.
 - [Regressão Polinomial](./regressao-polinomial)
 - [Árvore de Decisão](./arvore-de-decisao)
 - [Naive Bayes](./naive-bayes)
+- [Regressão Logística](./regressao-logistica)
