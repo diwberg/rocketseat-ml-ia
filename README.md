@@ -16,3 +16,4 @@ Desafios da formação Machine Learning em Inteligência Artificial.
 - [PCA](./pca)
 - [t-SNE](./t-sne)
 - [Apriori](./apriori)
+- [Tópicos complementares (GMM e LOF)](./topicos-complementares)
