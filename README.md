@@ -14,3 +14,4 @@ Desafios da formação Machine Learning em Inteligência Artificial.
 - [K-Means](./k-means)
 - [Clusterização Hierárquica](./clusterizacao-hierarquica)
 - [PCA](./pca)
+- [t-SNE](./t-sne)
