@@ -13,3 +13,4 @@ Desafios da formação Machine Learning em Inteligência Artificial.
 - [Regressão Logística](./regressao-logistica)
 - [K-Means](./k-means)
 - [Clusterização Hierárquica](./clusterizacao-hierarquica)
+- [PCA](./pca)
