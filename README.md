@@ -15,3 +15,4 @@ Desafios da formação Machine Learning em Inteligência Artificial.
 - [Clusterização Hierárquica](./clusterizacao-hierarquica)
 - [PCA](./pca)
 - [t-SNE](./t-sne)
+- [Apriori](./apriori)
