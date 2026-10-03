@@ -12,3 +12,4 @@ Desafios da formação Machine Learning em Inteligência Artificial.
 - [Naive Bayes](./naive-bayes)
 - [Regressão Logística](./regressao-logistica)
 - [K-Means](./k-means)
+- [Clusterização Hierárquica](./clusterizacao-hierarquica)
